@@ -1,5 +1,5 @@
 # Selenium-Web-Automation-Sample
-Basic Selenium based web automation implementation for filling a sample form contained in this repository.
+Basic Selenium based web automation implementation for filling a sample form contained in this repository. I've included the Chrome Driver exe file for Chrome 73. Try Downloading the driver according to your version of Chrome from the reference provided in this file.
 
 P.S: Requires **Chrome Driver** to be installed manually.
 Apart from that install packages from requirements.txt too.
